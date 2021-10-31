@@ -1,0 +1,18 @@
+[package]
+name = "simple_calculator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kevin Chen <kevin@chenbc.me>"]
+description = "command line simple calculator and library"
+repository = "https://github.com/chikaku/simple_calculator"
+documentation = "https://docs.rs/simple_calculator"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+simple_calculator_deliver = { path = "deliver", version = "0.1.0" }
+
+[workspace]
+members = [
+    "deliver",
+]

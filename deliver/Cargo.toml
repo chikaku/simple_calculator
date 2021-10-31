@@ -1,0 +1,17 @@
+[package]
+name = "simple_calculator_deliver"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kevin Chen <kevin@chenbc.me>"]
+description = "deliver library for simple_calculator"
+repository = "https://github.com/chikaku/simple_calculator"
+documentation = "https://docs.rs/simple_calculator_deliver"
+license = "MIT"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = "1.0.76"
+quote = "1.0.9"
+proc-macro2 = "1.0.29"
