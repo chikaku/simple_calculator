@@ -1,10 +1,10 @@
 [package]
 name = "simple_calculator_deliver"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Kevin Chen <kevin@chenbc.me>"]
-description = "deliver library for simple_calculator"
-repository = "https://github.com/chikaku/simple_calculator"
+description = "deliver library for simple_calculator_cmd"
+repository = "https://github.com/chikaku/simple_calculator_cmd"
 documentation = "https://docs.rs/simple_calculator_deliver"
 license = "MIT"
 

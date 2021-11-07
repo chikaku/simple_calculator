@@ -1,4 +1,4 @@
-use simple_calculator::{Error, VM};
+use simple_calculator_cmd::{Error, VM};
 
 #[test]
 fn test_calculation() -> Result<(), Error> {

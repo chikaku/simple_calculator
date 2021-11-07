@@ -21,15 +21,15 @@ dependencies = [
 ]
 
 [[package]]
-name = "simple_calculator"
-version = "0.1.0"
+name = "simple_calculator_cmd"
+version = "0.1.1"
 dependencies = [
  "simple_calculator_deliver",
 ]
 
 [[package]]
 name = "simple_calculator_deliver"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "proc-macro2",
  "quote",

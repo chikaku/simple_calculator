@@ -1,4 +1,4 @@
-# simple calculator
+# simple calculator command
 
 command line simple calculator and library
 

@@ -1,4 +1,4 @@
-use simple_calculator::VM;
+use simple_calculator_cmd::VM;
 use std::io;
 
 const HELP: &'static str = "\
